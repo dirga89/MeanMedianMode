@@ -1,0 +1,15 @@
+I:\Project\HackerRank\BasicStatistics\MeanMedianMode\obj\Debug\net6.0\MeanMedianMode.csproj.AssemblyReference.cache
+I:\Project\HackerRank\BasicStatistics\MeanMedianMode\obj\Debug\net6.0\MeanMedianMode.GeneratedMSBuildEditorConfig.editorconfig
+I:\Project\HackerRank\BasicStatistics\MeanMedianMode\obj\Debug\net6.0\MeanMedianMode.AssemblyInfoInputs.cache
+I:\Project\HackerRank\BasicStatistics\MeanMedianMode\obj\Debug\net6.0\MeanMedianMode.AssemblyInfo.cs
+I:\Project\HackerRank\BasicStatistics\MeanMedianMode\obj\Debug\net6.0\MeanMedianMode.csproj.CoreCompileInputs.cache
+I:\Project\HackerRank\BasicStatistics\MeanMedianMode\bin\Debug\net6.0\MeanMedianMode.exe
+I:\Project\HackerRank\BasicStatistics\MeanMedianMode\bin\Debug\net6.0\MeanMedianMode.deps.json
+I:\Project\HackerRank\BasicStatistics\MeanMedianMode\bin\Debug\net6.0\MeanMedianMode.runtimeconfig.json
+I:\Project\HackerRank\BasicStatistics\MeanMedianMode\bin\Debug\net6.0\MeanMedianMode.dll
+I:\Project\HackerRank\BasicStatistics\MeanMedianMode\bin\Debug\net6.0\MeanMedianMode.pdb
+I:\Project\HackerRank\BasicStatistics\MeanMedianMode\obj\Debug\net6.0\MeanMedianMode.dll
+I:\Project\HackerRank\BasicStatistics\MeanMedianMode\obj\Debug\net6.0\refint\MeanMedianMode.dll
+I:\Project\HackerRank\BasicStatistics\MeanMedianMode\obj\Debug\net6.0\MeanMedianMode.pdb
+I:\Project\HackerRank\BasicStatistics\MeanMedianMode\obj\Debug\net6.0\MeanMedianMode.genruntimeconfig.cache
+I:\Project\HackerRank\BasicStatistics\MeanMedianMode\obj\Debug\net6.0\ref\MeanMedianMode.dll
